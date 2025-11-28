@@ -1,0 +1,9 @@
+| Région                    | Latitude | Longitude |
+| ------------------------- | -------- | --------- |
+| Réunion                   | -21.1151 | 55.5364   |
+| Maurice                   | -20.3484 | 57.5522   |
+| Madagascar (Antananarivo) | -18.8792 | 47.5079   |
+| Fidji                     | -17.7134 | 178.0650  |
+| Hawaï (Honolulu)          | 21.3069  | -157.8583 |
+| Caraïbes (Guadeloupe)     | 16.2650  | -61.5510  |
+| Philippines (Manille)     | 14.5995  | 120.9842  |

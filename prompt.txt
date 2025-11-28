@@ -1,0 +1,19 @@
+PROMPT AVEC CLAUDE:
+
+Prompt initiale pour la création de l'api pour les cyclones:
+"bonjour je suis développeur je dois travailler sur l'api open météo pour avoir tous les champ pour detecter un cyclone. tu dois parcourir la doc de open méteo et me construire un apel apel qui prend des variables pour detecter si oui ou non un cyclone arrive ou et deja la : https://open-meteo.com/en/docs"
+
+Correction du prompt car il m'a généré du code python pour crééer l'apel api dynamiquement alors que je voulais que l'apel api.
+"pour l'instant donne moi juste l'adresse de l'api pour detecter si un cyclone arrive complete : https://api.open-meteo.com/v1/forecast"
+
+
+
+
+
+PROMPT AVEC GITHUB COPILOT DANS VS CODE:
+
+Prompt pour les dépendances:
+"bonjour pour mon projet j'aurais besoin du module react rooter dom peut tu installer la dépendance et m'inplanter le code dans le fichier app.jsx"
+
+Correction du prompt car il m'a lancer un .venv (????)
+"pourquoi m'installe tu un environnement python je n'ai pas de python dans mon projet"
